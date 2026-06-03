@@ -1,0 +1,16 @@
+# credentials and local configs
+.env
+.env.local
+.config.local.json
+# dependencies and packeges
+node_modules/
+vendor/
+.pnp/
+# OS files
+.DS_Store
+# temp, comp and logs
+dist/
+build/
+*.log
+npm-debug.log*
+.cache/
