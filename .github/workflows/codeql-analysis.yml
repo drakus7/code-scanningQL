@@ -6,4 +6,4 @@ on:
   pull-request:
     branches: [main]
   schedule:
-    - cron: '0 11 * * 3'
+    - cron: '0 0 * * 2'
